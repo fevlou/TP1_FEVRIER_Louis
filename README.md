@@ -6,3 +6,4 @@ Question 4 et 5 : Nous modifions le retour de la console de sorte à connaitre l
     Console numéro 2, elle tue notre signal  :  ![whatever](Capture2.png)
 
 Question 6 : Nous créons une fonction qui découpe l'entrée console (input) pour ensuite analyser les commandes complexes : ![whatever](Capture4.png) ![whatever](Capture6.png)
+Question 7 : Nous devons créer des fonctions qui permettent de rediriger l'entrée ou la sortie des fichiers : ![whatever](Capture5.png)
