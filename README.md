@@ -1,8 +1,8 @@
 Bilan du sujet de TP : Création d'un micro-shell
-Au cours de ce sujet, j'ai développé mes compétences en programmation système et compris le fonctionnement globale d'une console, notamment avec la gestion des processus, de la lecture des entrées et des redirections : 
+Au cours de ce sujet, j'ai développé mes compétences en programmation système et compris le fonctionnement global d'une console, notamment avec la gestion des processus, de la lecture des entrées et des redirections : 
 
 1. Création d'un shell de base
-Tout d'abord, j'ai appris à implémenter un shell basique, ce dernier affichait un message d'accueil et executait des fonctions basiques (date, fortune,...). Il était important de prendre en compte l'attente d'une entrée et d'une commande non connue.
+Tout d'abord, j'ai appris à implémenter un shell basique, ce dernier affichait un message d'accueil et executait des fonctions basiques (date, fortune,...). Il était important de prendre en compte l'attente d'une entrée et la gestion d'une commande non connue.
 Il y a aussi eu la gestion des processus entre le fils et le père. Ceci m'a permis de comprendre comment fonctionnent les processus mais aussi le lien entre le père et le fils (notamment lorsqu'il fallait tuer le fils avec un signal extérieur). 
 
 2. Gestion des redirections
