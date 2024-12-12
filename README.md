@@ -1,3 +1,4 @@
+Le code est dans le main.c et le main.h est dans le fichier includes
 Bilan du sujet de TP : Création d'un micro-shell
 Au cours de ce sujet, j'ai développé mes compétences en programmation système et compris le fonctionnement global d'une console, notamment avec la gestion des processus, de la lecture des entrées et des redirections : 
 
