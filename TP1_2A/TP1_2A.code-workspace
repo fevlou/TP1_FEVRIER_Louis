@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"main.h": "c",
+			"stdio.h": "c",
+			"types.h": "c",
+			"fcntl.h": "c",
+			"errno.h": "c"
+		}
+	}
+}
